@@ -67,6 +67,7 @@ export function ScrollTriggerDemo() {
       >
         <h2 className="text-[30vw]">Experience</h2>
       </section>
+      <section className="h-screen bg-blue-200"></section>
     </>
   );
 }
