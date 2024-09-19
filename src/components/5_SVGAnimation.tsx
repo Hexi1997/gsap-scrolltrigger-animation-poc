@@ -196,8 +196,8 @@ export function SVGAnimation() {
         className="h-screen flex items-center justify-center bg-gray-900"
       >
         <svg
-          width="226"
-          height="72"
+          width="452"
+          height="144"
           viewBox="0 0 113 36"
           fill="none"
           xmlns="http://www.w3.org/2000/svg"

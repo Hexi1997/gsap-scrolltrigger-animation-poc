@@ -6,6 +6,7 @@ import { Timeline } from "./components/2_Timeline";
 import { ScrollTriggerDemo } from "./components/3_ScrollTriggerDemo";
 import { ScrollTriggerSwiper } from "./components/4_ScrollTriggerSwiper";
 import { SVGAnimation } from "./components/5_SVGAnimation";
+import { SVGPathAnimation } from "./components/6_SVGPathAnimation";
 
 gsap.registerPlugin(ScrollTrigger);
 
@@ -16,7 +17,8 @@ function App() {
       {/* <Timeline /> */}
       {/* <ScrollTriggerDemo /> */}
       {/* <ScrollTriggerSwiper /> */}
-      <SVGAnimation />
+      {/* <SVGAnimation /> */}
+      <SVGPathAnimation />
     </div>
   );
 }
